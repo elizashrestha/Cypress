@@ -1,0 +1,8 @@
+{
+  "FirstName": ["John","Jessica","Harry","Ram","Sita"],
+  "LastName": ["Mayor","Patson","Potter","Kapoor","Shrestha"],
+  "Email": ["MayorJolhn@yopmail.com","PatsonmJessica@yopmail.com","PotkterHarry@yopmail.com","KapokorRam@yopmail.com","ShresthaSita@yopmail.com"],
+  "Password": ["ma@@ja@123","pa@@ja@1234","mummy@123","papajii123","yash1234"],
+  "ConfirmPassword": ["ma@@ja@123","pa@@ja@1234","mummy@123","papajii123","yash1234"]
+}
+
